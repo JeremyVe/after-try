@@ -1,5 +1,5 @@
 # after-try
-[![](https://img.shields.io/npm/v/after-try.svg)](https://github.com/JeremyVe/after-try)
+[![](https://img.shields.io/npm/v/after-try.svg)](https://www.npmjs.com/package/after-try)
 
 > after-try make axios retryable through interceptors
 
