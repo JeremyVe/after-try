@@ -1,6 +1,6 @@
 {
   "name": "after-try",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "after-try make axios retryable through interceptors",
   "main": "index.js",
   "license": "MIT",
