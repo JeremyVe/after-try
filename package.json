@@ -1,0 +1,14 @@
+{
+  "name": "after-try",
+  "version": "1.0.0",
+  "description": "after-try make axios retryable through interceptors",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "is-retry-allowed": "^1.1.0",
+    "lodash": "^4.17.11"
+  },
+  "devDependencies": {
+    "axios": "^0.18.0"
+  }
+}
